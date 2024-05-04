@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence,Machine Learning,Data Science .
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Projects and Everything that create a futuristic world.
-- 📫 How to reach me e-mail me.
+- 📫 How to reach me: e-mail me.
 - 😄 Pronouns: Mohit.
 - ⚡ Fun fact: I am so discipline.
 
